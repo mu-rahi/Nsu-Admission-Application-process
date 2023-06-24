@@ -1,0 +1,285 @@
+
+
+
+Unique ID: -1982409654
+
+The Name of Student: muhammad ullah rahi
+
+Branch: Mechanical Engineering
+
+DOB of student: 08/07/2003
+
+Gender of the student: male
+
+Religion of the student: Islam
+
+Nationality of the student: Bangladesh
+
+Address: 17/8-2 shyamoly babor road block b mohammadpur 1207
+
+City: dhaka
+
+Father's Name: Md. fardous alam
+
+Father's Occupation: Engineer (head of mechanicla of MIR AKHTER HOSSIANShammi Akter
+
+Mother's Name: Shammi Akter
+
+Mother's Occupation: Home Maker
+
+Father's Income: 250000
+
+Mother's Income: taka
+
+Name of Board of Class 10th: per month 
+
+Name of School of Class 10th: RAJSHAHI BOARD
+
+Max GPA: 5.00
+
+GPA Obtained: 5.00
+
+Year of Passing: (Golden
+
+Name of Board of Class 12th: A+)
+
+Name of School of Class 12th: DHAKA BOARD
+
+Max GPA: 5.00
+
+GPA Obtained: 5.00(GOLDEN
+
+Year of Passing: A+)
+
+Migration Card: 
+
+Transfer Certificate: not
+
+
+
+
+Unique ID: 1349892457
+
+The Name of Student: ertyuio
+
+Branch: 
+
+DOB of student: dfghjk'dfghj'
+
+Gender of the student: ghjk
+
+Religion of the student: hjkl'hjk
+
+Nationality of the student: l
+
+Address: l
+
+City: l
+
+Father's Name: l
+
+Father's Occupation: l
+
+Mother's Name: l
+
+Mother's Occupation: l
+
+Father's Income: l
+
+Mother's Income: l
+
+Name of Board of Class 10th: l
+
+Name of School of Class 10th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Name of Board of Class 12th: l
+
+Name of School of Class 12th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Migration Card: 
+
+Transfer Certificate: l
+
+
+
+
+Unique ID: 4545454
+
+The Name of Student: l
+
+Branch: Mechanical Engineering
+
+DOB of student: 
+
+Gender of the student: l
+
+Religion of the student: l
+
+Nationality of the student: l
+
+Address: l
+
+City: l
+
+Father's Name: l
+
+Father's Occupation: l
+
+Mother's Name: l
+
+Mother's Occupation: l
+
+Father's Income: l
+
+Mother's Income: l
+
+Name of Board of Class 10th: l
+
+Name of School of Class 10th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Name of Board of Class 12th: l
+
+Name of School of Class 12th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Migration Card: 
+
+Transfer Certificate: l
+
+
+
+
+Unique ID: 456546
+
+The Name of Student: l
+
+Branch: Mechanical Engineering
+
+DOB of student: 
+
+Gender of the student: l
+
+Religion of the student: l
+
+Nationality of the student: l
+
+Address: l
+
+City: l
+
+Father's Name: l
+
+Father's Occupation: l
+
+Mother's Name: l
+
+Mother's Occupation: 
+
+Father's Income: l
+
+Mother's Income: l
+
+Name of Board of Class 10th: l
+
+Name of School of Class 10th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Name of Board of Class 12th: l
+
+Name of School of Class 12th: l
+
+Max GPA: l
+
+GPA Obtained: l
+
+Year of Passing: l
+
+Migration Card: 
+
+Transfer Certificate: l
+
+
+
+
+Unique ID: 1457699635
+
+The Name of Student: habiba
+
+Branch: Mechanical Engineering
+
+DOB of student: 5/09/8765
+
+Gender of the student: male
+
+Religion of the student: islam
+
+Nationality of the student: Bangladeshi
+
+Address: DHAKA
+
+City: DHAKA
+
+Father's Name: XYZ
+
+Father's Occupation: XYZ
+
+Mother's Name: XYZ
+
+Mother's Occupation: XYZ
+
+Father's Income: 000
+
+Mother's Income: 000
+
+Name of Board of Class 10th: DHAKA
+
+Name of School of Class 10th: DRMC
+
+Max GPA: 5.00
+
+GPA Obtained: 5.00
+
+Year of Passing: 2019
+
+Name of Board of Class 12th: DHAKA
+
+Name of School of Class 12th: DRMC
+
+Max GPA: 5.00
+
+GPA Obtained: 5.00
+
+Year of Passing: 2021
+
+Migration Card: 
+
+Transfer Certificate: NOT
+
